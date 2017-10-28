@@ -13,7 +13,7 @@ Sınıf | Öğrenci İsmi  | Numara
    Bu deneyi daha önce gerçekleştirmiş kişilerin makalelerini okuyup bilgi edineceğiz. Okuduğumuz makalelerle projemize derinlik katacağız. Daha önce yapan insanlara bakıp feyz alacağız.
   
  ## Gerekli Malzemeler
- Deneyde kullancağımız malzemeler gayet basit ihtiyacımız olanların listesi şu şekilde;                                                      
+ Deneyde kullancağımız malzemeler gayet basit,ihtiyacımız olanların listesi şu şekilde;                                                      
 -Bozuk Para                                                                                                                                                    
 -Kağıt                                                                                                                                              
 -Kalem
