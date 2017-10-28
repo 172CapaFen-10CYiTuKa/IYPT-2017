@@ -4,18 +4,24 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
-
-#  (buraya proje başlığını yazınız)
+10-C   | Tugay Çalışkan | 467
+10-C   | Berat Kayra Ağcabay | 448
+10-C   | Yiğit Enes Kocadoru | 461
+ 
+#  Bozuk Para
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+ IYPT'nin 1997 yılında çıkarmış olduğu bozuk para (coin) projesinde bir paranın düz bir zemine tura olarak 15 cm aralıklarla bırakılıp yazı tura gelme olasılıklarını inceleyeceğiz.
+ ## Ön Hazırlıklar
+  Bu deneyi daha önce gerçekleştirmiş kişilerin makalelerini okuyup bilgi edineceğiz. Okuduğumuz makalelerle projemize derinlik katacağız.
+ ## Gerekli Malzemeler
+ Deneyde kullancağımız malzemeler gayet basit ihtiyacımız olanların listesi şu şekilde;
+-Bozuk Para
+-Kağıt 
+-Kalem
+ ## Projenin Yapılışı
+  Deneyi gerçekleştirmek düz bir zemine sahip bir yere gideceğiz. Bu yeri okulumuzun bahçesi olarak belirledik. Orada bozuk parayı 15 cm aralıklarla yere bırakıp sonuçları not edeceğiz. Daha isabetli sonuçlar için bozuk parayı 100 defa atacağız. Sonra bu sonuçları temize geçip bir tablo oluşturacağız.
+## Kaynakçalar 
+ Coin (Hynek Nemec, Zdenek Kluiber, Czech Rep.-Prague, 10th IYPT)
+ Coin (Mince, Tvůrčí náboj úloh TMF, str. 94-101)
 
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
 
