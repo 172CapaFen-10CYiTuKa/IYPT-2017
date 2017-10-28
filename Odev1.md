@@ -18,7 +18,7 @@ Sınıf | Öğrenci İsmi  | Numara
 -Kağıt                                                                                                                                              
 -Kalem
  ## Projenin Yapılışı
-  Deneyi gerçekleştirmek için düz bir zemine sahip bir yere gideceğiz. Bu yeri okulumuzun bahçesi olarak düşünüyoruz ama henüz belirli bir yer belirlemedik. Orada bozuk parayı 15 cm aralıklarla yere bırakıp sonuçları not edeceğiz. Daha isabetli sonuçlar için bozuk parayı 100 defa atacağız. Sonra bu sonuçları temiz bir kağıda geçip bir tablo oluşturacağız. Tablomuzu da deneyden oluşturduğumuz detaylı bir rapora ekleyeceğiz.
+  Deneyi gerçekleştirmek için düz bir zemine sahip bir yere gideceğiz. Bu yeri okulumuzun bahçesi olarak düşünüyoruz ama henüz belirli bir yer belirlemedik. Orada bozuk parayı 15 cm aralıklarla yere bırakıp sonuçları not edeceğiz. Daha isabetli sonuçlar için bozuk parayı 100 defa atacağız. Sonra bu sonuçları temiz bir kağıda geçirip bir tablo oluşturacağız. Tablomuzu da deneyden oluşturduğumuz detaylı bir rapora ekleyeceğiz.
 ## Kaynakçalar 
  Coin (Hynek Nemec, Zdenek Kluiber, Czech Rep.-Prague, 10th IYPT)                                                                                
  Coin (Mince, Tvůrčí náboj úloh TMF, str. 94-101)
