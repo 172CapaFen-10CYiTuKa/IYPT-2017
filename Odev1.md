@@ -8,7 +8,7 @@ Sınıf | Öğrenci İsmi  | Numara
  
 #  Bozuk Para (Coin)
 ## Özet
- IYPT'nin 1997 yılında çıkarmış olduğu bozuk para (coin) projesinde bir parayı düz bir zemine tura olarak 15 cm aralıklarla bırakıp yazı tura gelme olasılıklarını inceleyeceğiz. Gördüklerimizi temiz bir kağıda döküp burdan gerekli bilgileri alıp son bir rapor daha hazırlayacağız.
+ IYPT'nin 1997 yılında çıkarmış olduğu bozuk para (coin) projesinde, bir parayı düz bir zemine tura olarak 15 cm aralıklarla bırakıp yazı tura gelme olasılıklarını inceleyeceğiz. Gördüklerimizi temiz bir kağıda döküp burdan gerekli bilgileri alıp son bir rapor daha hazırlayacağız.
  ## Ön Hazırlıklar
    Bu deneyi daha önce gerçekleştirmiş kişilerin makalelerini okuyup bilgi edineceğiz. Okuduğumuz makalelerle projemize derinlik katacağız. Daha önce yapan insanlara bakıp feyz alacağız.
   
